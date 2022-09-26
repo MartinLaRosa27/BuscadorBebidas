@@ -1,0 +1,1 @@
+Aplicación desarrollada con React.Js, que muestra un listado de bebidas a través de una API.
